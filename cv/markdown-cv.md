@@ -1,4 +1,4 @@
-<img src="project.jpg" alt="ahmad's photo" style="height: 120px; width:100px;"/>
+<img src="https://user-images.githubusercontent.com/119170080/204270434-8421f3ba-ced9-4265-89a8-67fd2b90c74d.jpg" alt="Ali's photo" style="height: 120px; width:100px;"/>
 
 # Ali AL Homsi
 ## Web Developer 
@@ -9,6 +9,7 @@
 * ##### IT and hardware maintenance 
  * 2 years studying IT
 * 3 years working with desktop and laptop maintenance 
+
 
 
 ---
